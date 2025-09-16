@@ -5,7 +5,7 @@
 
 <!-- Intro  -->
 # Hey There! 👋
-**I'm Tran Hong Quan (he/him)** - A student at Ha Noi University of Mining and Geology. I'm interested in development, moderation and building thriving websites.
+**I'm Tran Hong Quan (he/him), driven by building vibrant online communities and crafting websites that inspire and connect people.
 
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,scss,tailwind,react,redux,nextjs,dotnet,docker,redis" />
+    <img src="https://skillicons.dev/icons?i=ts,scss,tailwind,react,dotnet,flutter,docker,postgres,kafka,redis" />
   </a>
 </p>
 
